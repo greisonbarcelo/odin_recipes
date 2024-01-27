@@ -12,9 +12,12 @@ h1{
     text-align: center;
     font-size: 50px;
 }
-.list-one {
+.list {
     text-align: center;
     padding-top: 50px;
+    font-size: 32px;
+    display: inline-block;
+    margin-left: 100px;
 }
 .img-carbonara {
     height: auto;
