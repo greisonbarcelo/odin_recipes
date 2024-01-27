@@ -10,3 +10,9 @@ h1{
     text-align: center;
     padding-top: 50px;
 }
+.img-carbonara {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
