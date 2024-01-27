@@ -1,6 +1,12 @@
-* {
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
     font-family: 'Times New Roman', Times, serif;
     color: #4a4242;
+    box-sizing: inherit;
 }
 h1{
     text-align: center;
